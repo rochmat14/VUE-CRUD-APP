@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "name": "logitech",
+      "stock": "40",
+      "sku": "A4093",
+      "id": 1
+    },
+    {
+      "name": "asus",
+      "stock": "90",
+      "sku": "B4030",
+      "id": 2
+    },
+    {
+      "name": "s",
+      "stock": "23",
+      "sku": "A00133",
+      "id": 3
+    }
+  ]
+}
